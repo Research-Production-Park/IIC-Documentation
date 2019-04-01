@@ -1,1 +1,2 @@
-# IIC-Documentation
+# Initial page
+
