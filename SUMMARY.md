@@ -1,6 +1,7 @@
 # Table of contents
 
-* [FAQ](README.md)
+* [Documentation for Interactive Immersive Classroom](README.md)
+* [FAQ](documentation-for-interactive-immersive-classroom.md)
 
 ## Streaming/Youtube
 
